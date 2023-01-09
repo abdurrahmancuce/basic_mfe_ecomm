@@ -1,0 +1,29 @@
+# Node
+/cart/node_modules
+cart/npm-debug.log
+cart/yarn-error.log
+
+/container/node_modules
+container/npm-debug.log
+container/yarn-error.log
+
+/product/node_modules
+product/npm-debug.log
+product/yarn-error.log
+
+# IDEs and editors
+.idea/
+.project
+.classpath
+.c9/
+*.launch
+.settings/
+*.sublime-workspace
+
+# Visual Studio Code
+.vscode/*
+.history/*
+
+# System files
+.DS_Store
+Thumbs.db
