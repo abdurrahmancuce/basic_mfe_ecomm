@@ -1,4 +1,4 @@
-# CLDataViz
+# Basic Micro Frontend Ecomm App
 
 This project is a simple project to learn the basics of microfrontend architecture. This project was generated with pure Javascript. 
 
